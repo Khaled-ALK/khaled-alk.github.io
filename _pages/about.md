@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: KH_PROF.jpg
+  image: KH_PROF.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Tehran\Iran</p>
