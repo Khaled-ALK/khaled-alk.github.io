@@ -32,4 +32,4 @@ It's hard to pick a single "main" field, but I'm especially interested in proble
 **Current areas of study**
 - Analysis
 - Probability theory
-- Mathematical finance
+- Mathematical finance \ Game Theory
