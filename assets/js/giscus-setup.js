@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Khaled-ALK/khaled-ALK",
+    "data-repo": "Khaled-ALK/khaled-alk.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
