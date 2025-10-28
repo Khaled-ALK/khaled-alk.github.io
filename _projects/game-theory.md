@@ -2,7 +2,7 @@
 layout: page
 title: Game Theory
 description: Notes, readings, and problem sets from my Game Theory course which I audited in Sharif University.
-category: Math
+category: COS
 importance: 1
 img: /assets/courses/game-theory/thumb.jpg
 permalink: /courses/game-theory/
