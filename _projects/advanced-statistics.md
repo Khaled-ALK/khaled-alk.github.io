@@ -9,15 +9,14 @@ permalink: /courses/advanced-statistics/
 ---
 
 # Advanced Statistics
-**Course code — University — Semester Year**
-
+An ongoing graduate course on advanced topics in statistics, following much of the material from Trevor Hastie and Bradley Efron’s *Computer Age Statistical Inference* ([book/site](https://hastie.su.domains/CASI/)).  
+Lectured by [Kasra Alishahi](https://www.researchgate.net/profile/Kasra-Alishahi).
 ## Overview
 Brief summary of topics (e.g., estimation theory, hypothesis testing, GLMs, asymptotics).
 
 ## Reading List
-- Casella & Berger, *Statistical Inference*.
-- Wasserman, *All of Statistics*.
-- (Add papers/notes here.)
+[Computer Age Statistical Inference](https://hastie.su.domains/CASI/index.html)
+[A Brief History of Statistics in Three and One-Half Chapters](https://www.maths.tcd.ie/~donmoore/project/project/Write%20up/final!!!/final_draft/brief%20history%20statistics.pdf)
 
 ## Materials
 - **Lecture notes:** [/assets/courses/advanced-statistics/notes.pdf](/assets/courses/advanced-statistics/notes.pdf)
