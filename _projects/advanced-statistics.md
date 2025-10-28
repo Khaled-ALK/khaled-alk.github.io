@@ -15,8 +15,9 @@ Lectured by [Kasra Alishahi](https://www.researchgate.net/profile/Kasra-Alishahi
 Brief summary of topics (e.g., estimation theory, hypothesis testing, GLMs, asymptotics).
 
 ## Reading List
-[Computer Age Statistical Inference](https://hastie.su.domains/CASI/index.html)
-[A Brief History of Statistics in Three and One-Half Chapters](https://www.maths.tcd.ie/~donmoore/project/project/Write%20up/final!!!/final_draft/brief%20history%20statistics.pdf)
+-[Computer Age Statistical Inference](https://hastie.su.domains/CASI/index.html)
+
+-[A Brief History of Statistics in Three and One-Half Chapters](https://www.maths.tcd.ie/~donmoore/project/project/Write%20up/final!!!/final_draft/brief%20history%20statistics.pdf)
 
 ## Materials
 - **Lecture notes:** [/assets/courses/advanced-statistics/notes.pdf](/assets/courses/advanced-statistics/notes.pdf)
