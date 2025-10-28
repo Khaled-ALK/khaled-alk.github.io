@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Markov Chains and Mixing Times
-description: Notes and references from the course I audited at Peking University (lecturer: Yuval Peres).
+title: "Markov Chains and Mixing Times"
+description: "Notes and references from the course I audited at Peking University (lecturer: Yuval Peres)."
 category: Math
 importance: 1
 img: /assets/courses/markov-chains-and-mixing-times/thumb.jpg
 permalink: /courses/markov-chains-and-mixing-times/
 ---
+
 
 # Markov Chains and Mixing Times
 **Audited at Peking University — Lecturer: Yuval Peres**
