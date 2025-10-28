@@ -4,7 +4,7 @@ title: "Introduction to Stochastic Processes"
 description: "Notes, readings, and problem sets from my Intro to Stochastic Processes course."
 category: Math          # or COS / Etc to place it under a different group
 importance: 1           # smaller number = appears earlier within its group
-img: /assets/courses/introduction-to-stochastic-processes/thumb.png
+img: /assets/courses/introduction-to-stochastic-processes/thumb.jpg
 permalink: /courses/introduction-to-stochastic-processes/
 ---
 
