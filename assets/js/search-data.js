@@ -449,6 +449,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-game-theory",
+          title: 'Game Theory',
+          description: "Notes, readings, and problem sets from my Game Theory course.",
+          section: "Projects",handler: () => {
+              window.location.href = "/courses/game-theory/";
             },},{
         id: 'social-email',
         title: 'email',
