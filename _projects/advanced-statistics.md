@@ -12,7 +12,33 @@ permalink: /courses/advanced-statistics/
 An ongoing graduate course in Sharif University on advanced topics in statistics, following much of the material from Trevor Hastie and Bradley Efron’s *Computer Age Statistical Inference* ([book/site](https://hastie.su.domains/CASI/)).  
 Lectured by [Kasra Alishahi](https://www.researchgate.net/profile/Kasra-Alishahi).
 ## Overview
-Brief summary of topics (e.g., estimation theory, hypothesis testing, GLMs, asymptotics).
+
+**Part I — Classical Inference**
+- Algorithms and inference  
+- Frequentist inference  
+- Bayesian inference  
+- Fisherian inference and maximum likelihood estimation (MLE)  
+- Parametric models and the exponential family  
+
+**Part II — Dawn of the Computer Age**
+- Empirical Bayes  
+- James–Stein estimators and ridge regression  
+- Generalized linear models (GLMs) and regression trees  
+- Survival analysis and the EM algorithm  
+- Jackknife and bootstrap  
+- Resampling-based confidence intervals  
+- Cross-validation and prediction-error estimation  
+- Bayesian inference and MCMC  
+- Post-war statistical methods and inference  
+
+**Part III — The 21st Century**
+- Multiple testing and the false discovery rate (FDR)  
+- Sparse modeling and the LASSO  
+- Random forests and boosting  
+- Neural networks and deep learning  
+- Support vector machines (SVMs) and kernel methods  
+- Post-selection inference  
+- Empirical-Bayes estimation strategies  
 
 ## Reading List
 -[Computer Age Statistical Inference](https://hastie.su.domains/CASI/index.html)
