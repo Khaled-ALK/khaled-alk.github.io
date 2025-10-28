@@ -452,6 +452,11 @@ ninja.data = [{
           description: "Notes, readings, and problem sets from my Game Theory course which I audited in Sharif University.",
           section: "Projects",handler: () => {
               window.location.href = "/courses/game-theory/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/markov-chains-and-mixing-times/";
             },},{
         id: 'social-email',
         title: 'email',
