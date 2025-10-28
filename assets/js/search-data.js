@@ -442,6 +442,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-advanced-statistics",
+          title: 'Advanced Statistics',
+          description: "Notes, readings, and problem sets from my Advanced Statistics course.",
+          section: "Projects",handler: () => {
+              window.location.href = "/courses/advanced-statistics/";
             },},{id: "projects-game-theory",
           title: 'Game Theory',
           description: "Notes, readings, and problem sets from my Game Theory course which I audited in Sharif University.",
