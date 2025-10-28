@@ -643,7 +643,3 @@ jsonresume:
   - interests
   - references
 
-# --- Social links shown as icons (About page footer, etc.) ---
-social:
-  email: "khaledalekasirut@gmail.com"
-  linkedin: "Khaled Alekasir"
