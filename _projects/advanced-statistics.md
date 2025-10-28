@@ -2,14 +2,14 @@
 layout: page
 title: Advanced Statistics
 description: Notes, readings, and problem sets from my Advanced Statistics course.
-category: Math          # or COS/Etc — choose the group you want it under
+category: Etc          # or COS/Etc — choose the group you want it under
 importance: 1           # smaller number = appears earlier within its group
 img: /assets/courses/advanced-statistics/thumb.jpg
 permalink: /courses/advanced-statistics/
 ---
 
 # Advanced Statistics
-An ongoing graduate course on advanced topics in statistics, following much of the material from Trevor Hastie and Bradley Efron’s *Computer Age Statistical Inference* ([book/site](https://hastie.su.domains/CASI/)).  
+An ongoing graduate course in Sharif University on advanced topics in statistics, following much of the material from Trevor Hastie and Bradley Efron’s *Computer Age Statistical Inference* ([book/site](https://hastie.su.domains/CASI/)).  
 Lectured by [Kasra Alishahi](https://www.researchgate.net/profile/Kasra-Alishahi).
 ## Overview
 Brief summary of topics (e.g., estimation theory, hypothesis testing, GLMs, asymptotics).
