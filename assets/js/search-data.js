@@ -452,11 +452,11 @@ ninja.data = [{
           description: "Notes, readings, and problem sets from my Game Theory course which I audited in Sharif University.",
           section: "Projects",handler: () => {
               window.location.href = "/courses/game-theory/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-markov-chains-and-mixing-times",
+          title: 'Markov Chains and Mixing Times',
+          description: "Notes and references from the course I audited at Peking University (lecturer: Yuval Peres).",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/markov-chains-and-mixing-times/";
+              window.location.href = "/courses/markov-chains-and-mixing-times/";
             },},{
         id: 'social-email',
         title: 'email',
