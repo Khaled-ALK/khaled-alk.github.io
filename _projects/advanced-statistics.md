@@ -45,6 +45,9 @@ Lectured by [Kasra Alishahi](https://www.researchgate.net/profile/Kasra-Alishahi
 
 -[A Brief History of Statistics in Three and One-Half Chapters](https://www.maths.tcd.ie/~donmoore/project/project/Write%20up/final!!!/final_draft/brief%20history%20statistics.pdf)
 
+## Useful Links
+- [Proof of Neyman-Pearson Lemma](https://web.stanford.edu/~lmackey/stats300a/doc/stats300a-fall15-lecture13.pdf)
+
 ## Materials
 - **Lecture notes:** [/assets/courses/advanced-statistics/notes.pdf](/assets/courses/advanced-statistics/notes.pdf)
 - **Problem sets:**
