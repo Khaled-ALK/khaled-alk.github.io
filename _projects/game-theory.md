@@ -17,6 +17,9 @@ I hadn’t planned to take this class, but after attending 2–3 sessions I was 
 - [Game Theory, Alive](https://www.yuval-peres-books.com/game-theory-alive/)
 - [Twenty Lectures on Algorithmic Game Theory](https://www.amazon.de/-/en/Twenty-Lectures-Algorithmic-Game-Theory/dp/131662479X)
 
+## Usefull Material
+- **Voting power and Banzhaf index in weighted systems** — a short article discussing how *votes ≠ power* with examples.[Election Fever in Blockvotia — Ian Stewart (Scientific American, 1995)](/assets/courses/game-theory/stewart-1995-election-fever.pdf)
+
 ## Materials
 - **Notes:** [/assets/courses/game-theory/notes.pdf](/assets/courses/game-theory/notes.pdf)
 - **PSet 1:** [/assets/courses/game-theory/pset1.pdf](/assets/courses/game-theory/pset1.pdf)
