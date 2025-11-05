@@ -49,7 +49,4 @@ Lectured by [Kasra Alishahi](https://www.researchgate.net/profile/Kasra-Alishahi
 - [Proof of Neyman-Pearson Lemma](https://web.stanford.edu/~lmackey/stats300a/doc/stats300a-fall15-lecture13.pdf)
 
 ## Materials
-- **Lecture notes:** [/assets/courses/advanced-statistics/notes.pdf](/assets/courses/advanced-statistics/notes.pdf)
-- **Problem sets:**
-  - [PSet 1](/assets/courses/advanced-statistics/pset1.pdf)
-  - [PSet 2](/assets/courses/advanced-statistics/pset2.pdf)
+- **Problem sets:** To be done later!
