@@ -8,9 +8,6 @@ img: /assets/courses/introduction-to-stochastic-processes/thumb.jpg
 permalink: /courses/introduction-to-stochastic-processes/
 ---
 
-# Introduction to Stochastic Processes
-**MIT-18.445**
-
 ## Overview
 ### Introduction to Stochastic Processes (MIT 18.445, Spring 2015)
 
@@ -34,5 +31,3 @@ Graduate-level course at MIT taught by **Dr. Hao Wu**.
 
 ## Materials
 I'll post solution to problems sets soon.
-  - /assets/courses/introduction-to-stochastic-processes/pset1.pdf
-  - /assets/courses/introduction-to-stochastic-processes/pset2.pdf
