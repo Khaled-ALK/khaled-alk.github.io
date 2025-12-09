@@ -55,7 +55,8 @@ Lectured by [Kasra Alishahi](https://www.researchgate.net/profile/Kasra-Alishahi
 
 
 ## Useful Links
-- [Proof of Neyman-Pearson Lemma](https://web.stanford.edu/~lmackey/stats300a/doc/stats300a-fall15-lecture13.pdf)
+- * Rob Tibshirani and friends (Trevor Hastie, John Cherian, Stefan Wager, Ryan Tibshirani) interview authors of seminal papers in the field of Statistics. This is part of a project from Stanford's Stat 319 class in Winter 2024 to discuss important papers in the field. Please visit the website below to find the original papers, presentation slides, and summaries.  
+  [Interviews on seminal papers in Statistics](https://www.youtube.com/playlist?list=PLt_pNkbycxqahVksaNnjz3M6759xHIZ-r)
 
 ## Materials
 - **Problem sets:** To be done later!
