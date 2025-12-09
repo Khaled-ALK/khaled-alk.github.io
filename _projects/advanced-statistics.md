@@ -47,8 +47,10 @@ Lectured by [Kasra Alishahi](https://www.researchgate.net/profile/Kasra-Alishahi
 
 - Susan Holmes, Carl Morris, and Robert Tibshirani (2003).
   *Bradley Efron: A Conversation with Good Friends*.
-  _Statistical Science_, 18(2), 268–281.
-  [PDF](https://khaled-alk.github.io/assets/courses/advanced-statistics/efron-conversation-good-friends-2003.pdf)
+  _Statistical Science_, 18(2), 268–281.  
+  [Original PDF (English)](https://khaled-alk.github.io/assets/courses/advanced-statistics/efron-conversation-good-friends-2003.pdf)  
+  [Persian translation – translated by Kasra Alishahi](https://khaled-alk.github.io/assets/courses/advanced-statistics/efron-conversation-good-friends-2003-fa-alishahi.pdf)
+
 
 
 
