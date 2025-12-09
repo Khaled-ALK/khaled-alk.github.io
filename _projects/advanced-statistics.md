@@ -60,10 +60,8 @@ Lectured by [Kasra Alishahi](https://www.researchgate.net/profile/Kasra-Alishahi
   [Interviews playlist](https://www.youtube.com/playlist?list=PLt_pNkbycxqahVksaNnjz3M6759xHIZ-r) · [Project website](https://ledaliang.github.io/journalclub/)
 
 - Useful videos on James–Stein paradox
-
-- *For a long time, many statisticians thought the maximum likelihood estimator (MLE) was essentially the “best possible” estimator: in many classical models it is efficient and was believed to be admissible (there is no other estimator that strictly dominates it everywhere). Results like the Cramér–Rao lower bound and Fisher’s work on MLE supported this view.
-
-- *Stein’s paradox shows that this intuition can fail in higher dimensions. When we estimate the mean of a multivariate normal distribution in three or more dimensions, the usual MLE (the sample mean) is actually inadmissible: the James–Stein estimator shrinks all coordinates toward a common point and achieves a strictly smaller total mean squared error for every true parameter vector. This is why it is called a “paradox”: we can improve our estimates of several unrelated quantities by pulling them toward each other!
+For a long time, many statisticians thought the maximum likelihood estimator (MLE) was essentially the “best possible” estimator: in many classical models it is efficient and was believed to be admissible (there is no other estimator that strictly dominates it everywhere). Results like the Cramér–Rao lower bound and Fisher’s work on MLE supported this view.
+Stein’s paradox shows that this intuition can fail in higher dimensions. When we estimate the mean of a multivariate normal distribution in three or more dimensions, the usual MLE (the sample mean) is actually inadmissible: the James–Stein estimator shrinks all coordinates toward a common point and achieves a strictly smaller total mean squared error for every true parameter vector. This is why it is called a “paradox”: we can improve our estimates of several unrelated quantities by pulling them toward each other!
 
 - **The weirdest paradox in statistics (and machine learning)** – An intuitive introduction to Stein’s paradox and the James–Stein estimator, with geometric explanations, discussion of shrinkage and the bias–variance tradeoff, and examples from modern machine learning.  
   [Watch on YouTube](https://www.youtube.com/watch?v=cUqoHQDinCM)
