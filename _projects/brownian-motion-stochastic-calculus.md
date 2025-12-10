@@ -14,19 +14,7 @@ This is a graduate-level course on Brownian motion and stochastic calculus, foll
 
 The official BIMSA page (with registration details, videos and notes) is:
 
-- [Probability 3: A course on Brownian Motion and Stochastic Calculus (BIMSA)](https://www.bimsa.cn/research_detail/BrownianMotionStochasticCalculus.html)
-
----
-
-### Logistics (BIMSA 2024)
-
-- **Lecturer:** Yuval Peres (Professor, BIMSA) :contentReference[oaicite:1]{index=1}  
-- **Dates:** 11 September – 25 December 2024  
-- **Time:** Wednesdays, 09:50–12:15 (Beijing time), online via Zoom :contentReference[oaicite:2]{index=2}  
-- **Audience:** Graduate students  
-- **Language:** English :contentReference[oaicite:3]{index=3}  
-
-(Your personal page can mirror this information or you can adapt it to your own use, e.g. notes, links, and homework.)
+- [Probability 3: A course on Brownian Motion and Stochastic Calculus (BIMSA)](https://www.bimsa.cn/research_detail/BrownianMotionStochasticCalculus.html) 
 
 ---
 
