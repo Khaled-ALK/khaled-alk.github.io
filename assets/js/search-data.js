@@ -442,7 +442,7 @@ ninja.data = [{
               window.location.href = "/courses/advanced-statistics/";
             },},{id: "projects-brownian-motion-and-stochastic-calculus",
           title: 'Brownian Motion and Stochastic Calculus',
-          description: "",
+          description: "Notes, readings, and references for the BIMSA course Probability 3: Brownian Motion and Stochastic Calculus.",
           section: "Projects",handler: () => {
               window.location.href = "/courses/brownian-motion-stochastic-calculus/";
             },},{id: "projects-game-theory",
