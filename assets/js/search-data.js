@@ -440,6 +440,11 @@ ninja.data = [{
           description: "Notes, readings, and problem sets from my Advanced Statistics course.",
           section: "Projects",handler: () => {
               window.location.href = "/courses/advanced-statistics/";
+            },},{id: "projects-brownian-motion-and-stochastic-calculus",
+          title: 'Brownian Motion and Stochastic Calculus',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/courses/brownian-motion-stochastic-calculus/";
             },},{id: "projects-game-theory",
           title: 'Game Theory',
           description: "Notes, readings, and problem sets from my Game Theory course which I audited in Sharif University.",
