@@ -58,18 +58,6 @@ The topics follow closely the BIMSA syllabus: :contentReference[oaicite:5]{index
 - Local time of Brownian motion  
 - Intersections of Brownian paths and exceptional subsets of the path
 
----
-
-### Assessment (BIMSA scheme)
-
-According to the BIMSA description, assessment is based on: :contentReference[oaicite:6]{index=6}  
-
-- Homework  
-- Class participation  
-- A midterm exam  
-- A final exam  
-
-You can keep this here as information, or adapt it if you later use this page for your own version of the course.
 
 ---
 
