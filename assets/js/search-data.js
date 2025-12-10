@@ -455,6 +455,11 @@ ninja.data = [{
           description: "Notes, readings, and problem sets from my Intro to Stochastic Processes course.",
           section: "Projects",handler: () => {
               window.location.href = "/courses/introduction-to-stochastic-processes/";
+            },},{id: "projects-introduction-to-theoretical-machine-learning",
+          title: 'Introduction to Theoretical Machine Learning',
+          description: "A mathematically grounded introduction to machine learning based on Shalev-Shwartz &amp; Ben-David&#39;s book Understanding Machine Learning.",
+          section: "Projects",handler: () => {
+              window.location.href = "/courses/introduction-to-theoretical-machine-learning/";
             },},{id: "projects-markov-chains-and-mixing-times",
           title: 'Markov Chains and Mixing Times',
           description: "Notes and references from the course I audited at Peking University (lecturer: Yuval Peres).",
