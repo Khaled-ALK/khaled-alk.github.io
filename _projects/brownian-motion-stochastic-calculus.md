@@ -1,6 +1,7 @@
 ---
 layout: project
 title: "Brownian Motion and Stochastic Calculus"
+category: Math          # or COS / Etc to place it under a different group
 permalink: /courses/brownian-motion-stochastic-calculus/
 image: /assets/courses/brownian-motion-stochastic-calculus/brownian-motion-3d-path.png
 # add any other fields you use for courses (e.g. category: course, importance: 1, etc.)
