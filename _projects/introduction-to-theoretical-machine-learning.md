@@ -82,19 +82,10 @@ The course follows the structure of _Understanding Machine Learning_ and covers,
 
 ## Assessment (example scheme)
 
-If you run this as an actual course, a reasonable grading scheme could be:
-
-- **Problem sets** (proof-based and some small numerical experiments)  
-- **Short write-ups** summarizing selected chapters or research papers  
-- **Midterm exam** on PAC/VC/generalization theory  
-- **Final exam or project** on more advanced topics (e.g., margin-based bounds, kernels, or online learning)
+.......
 
 ---
 
 ## Extras / further directions
 
-Some possible additions for this page later:
-
-- Links to your **own lecture notes**, slides, or problem sets.  
-- A short “How to self-study from this page” section (e.g., suggested reading + lecture schedule).  
-- Connections to more advanced topics such as generalization in deep learning, online convex optimization, or bandits.
+.....
