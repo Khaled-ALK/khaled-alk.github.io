@@ -45,6 +45,8 @@ Lectured by [Kasra Alishahi](https://www.researchgate.net/profile/Kasra-Alishahi
 
 - [A Brief History of Statistics in Three and One-Half Chapters](https://www.maths.tcd.ie/~donmoore/project/project/Write%20up/final!!!/final_draft/brief%20history%20statistics.pdf)
 
+- [R. A. Fisher in the 21st Century](https://www.jstor.org/stable/2676745?seq=1). Bradly Efron article on R. A. Fisher’s lasting impact on statistics.
+
 - Susan Holmes, Carl Morris, and Robert Tibshirani (2003).
   *Bradley Efron: A Conversation with Good Friends*.
   _Statistical Science_, 18(2), 268–281.  
