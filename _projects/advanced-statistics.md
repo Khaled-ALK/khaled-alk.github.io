@@ -63,6 +63,10 @@ Lectured by [Kasra Alishahi](https://www.researchgate.net/profile/Kasra-Alishahi
 - Rob Tibshirani and friends (Trevor Hastie, John Cherian, Stefan Wager, Ryan Tibshirani) interview authors of seminal papers in the field of Statistics. This is part of a project from Stanford's Stat 319 class in Winter 2024 to discuss important papers in the field. Please visit the website below to find the original papers, presentation slides, and summaries.  
   [Interviews playlist](https://www.youtube.com/playlist?list=PLt_pNkbycxqahVksaNnjz3M6759xHIZ-r) · [Project website](https://ledaliang.github.io/journalclub/)
 
+ - [Kullback–Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence) is a common “distance-like” way to compare probability distributions (even though it isn’t always a true metric). If you’ve seen a bit of information theory, it’ll feel pretty familiar.  
+What’s nice is that it also shows up naturally when you look at Fisher’s work on MLE (see Exercise 7 in PS1). This video is a helpful, intuitive illustration of what’s going on.[Watch on Youtube](https://www.youtube.com/watch?v=KHVR587oW8I&t=69s)
+
+
 - Useful videos on James–Stein paradox  
   For a long time, many statisticians thought the maximum likelihood estimator (MLE) was essentially the “best possible” estimator: in many classical models it is efficient and was believed to be admissible (there is no other estimator that strictly dominates it everywhere). Results like the Cramér–Rao lower bound and Fisher’s work on MLE supported this view.
 
