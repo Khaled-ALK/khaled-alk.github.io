@@ -45,7 +45,7 @@ Lectured by [Kasra Alishahi](https://www.researchgate.net/profile/Kasra-Alishahi
 
 - [A Brief History of Statistics in Three and One-Half Chapters](https://www.maths.tcd.ie/~donmoore/project/project/Write%20up/final!!!/final_draft/brief%20history%20statistics.pdf)
 
-- [On the Mathematical Foundations of Theoretical Statistics](https://khaled-alk.github.io/assets/courses/advanced-statistics/On-the-Mathematical-Foundations-of-Theoretical-Statistics.pdf)
+- [On the Mathematical Foundations of Theoretical Statistics](https://khaled-alk.github.io/assets/courses/advanced-statistics/On-the-Mathematical-Foundations-of-Theoretical-Statistics.pdf). R. A. Fisher’s 1922 paper on the math foundations of theoretical statistics—covering key ideas like estimation, likelihood, and efficiency that still show up everywhere today. It is rather unbelievable how he managed to come up with all these fascinating ideas!
 
 - [R. A. Fisher in the 21st Century](https://www.jstor.org/stable/2676745?seq=1). Bradly Efron article on R. A. Fisher’s lasting impact on statistics.
 
