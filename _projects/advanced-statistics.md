@@ -51,6 +51,9 @@ Lectured by [Kasra Alishahi](https://www.researchgate.net/profile/Kasra-Alishahi
 
 - [R. A. Fisher in the 21st Century](https://www.jstor.org/stable/2676745?seq=1). Bradly Efron article on R. A. Fisher’s lasting impact on statistics.
 
+- [Estimating the Number of Unsen Species: How Many Words Did Shakespeare Know?](https://www.jstor.org/stable/2335721). Bradley Efron borrows the same “unseen species” trick R.A. Fisher used in ecology—estimating how many things you *didn’t* observe—to tackle a fun question: how big was Shakespeare’s vocabulary?!
+
+
 - Susan Holmes, Carl Morris, and Robert Tibshirani (2003).
   *Bradley Efron: A Conversation with Good Friends*.
   _Statistical Science_, 18(2), 268–281.  
