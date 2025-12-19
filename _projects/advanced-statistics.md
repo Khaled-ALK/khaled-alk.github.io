@@ -47,7 +47,7 @@ Lectured by [Kasra Alishahi](https://www.researchgate.net/profile/Kasra-Alishahi
 
 - [On the Mathematical Foundations of Theoretical Statistics](https://khaled-alk.github.io/assets/courses/advanced-statistics/On-the-Mathematical-Foundations-of-Theoretical-Statistics.pdf). R. A. Fisher’s 1922 paper on the math foundations of theoretical statistics—covering key ideas like estimation, likelihood, and efficiency that still show up everywhere today. It is rather unbelievable how he managed to come up with all these fascinating ideas!
 
-- Nice discussion on [In what sense is the Jeffreys prior invariant?]{https://math.stackexchange.com/questions/210607/in-what-sense-is-the-jeffreys-prior-invariant}
+- Nice discussion on [In what sense is the Jeffreys prior invariant?](https://math.stackexchange.com/questions/210607/in-what-sense-is-the-jeffreys-prior-invariant)
 
 - [R. A. Fisher in the 21st Century](https://www.jstor.org/stable/2676745?seq=1). Bradly Efron article on R. A. Fisher’s lasting impact on statistics.
 
