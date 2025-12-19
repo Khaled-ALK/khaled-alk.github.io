@@ -21,5 +21,6 @@ I hadn’t planned to take this class, but after attending 2–3 sessions I was 
 - **Voting power and Banzhaf index in weighted systems** — a short article discussing how *votes ≠ power* with examples.[Election Fever in Blockvotia — Ian Stewart (Scientific American, 1995)](/assets/courses/game-theory/stewart-1995-election-fever.pdf) 
 
 ## Materials
-- **Notes:** [/assets/courses/game-theory/notes.pdf](/assets/courses/game-theory/notes.pdf)
-- **PSet 1:** [/assets/courses/game-theory/pset1.pdf](/assets/courses/game-theory/pset1.pdf)
+[Problem Set 1](https://www.overleaf.com/read/wxzvygcrbpsn#01de75)
+[Problem Set 2](https://www.overleaf.com/read/hsfdyxzdqtfd#5e64d0)
+[Problem Set 3](https://www.overleaf.com/read/jtwgqykpyggv#db8135)
