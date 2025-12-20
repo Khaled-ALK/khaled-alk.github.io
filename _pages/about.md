@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm Khaled Alekaisr. I recently completed my bachelor's in Computer Science at the University of Tehran.
+Hi, I'm Khaled Alekasir. I recently completed my bachelor's in Computer Science at the University of Tehran.
 
 It's hard to pick a single **main** field, but I'm especially interested in problems with inherent uncertainty and in finding the patterns that describe them.
 
