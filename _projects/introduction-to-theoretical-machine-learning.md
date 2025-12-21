@@ -79,13 +79,20 @@ The course follows the structure of _Understanding Machine Learning_ and covers,
 - Theoretical views on neural networks and overparameterization (as time and interest allow)
 
 ---
+## Useful links
 
-## Assessment (example scheme)
+- Shai Ben-David – Foundations of Learning Theory (MPI talks)  
+  A three-part mini-course at the Max Planck Institute on core ideas in statistical learning theory: VC dimension, the uniform convergence property, and non-uniform learnability. These talks are a great complement to the textbook and to the material on PAC learning and VC theory discussed in this course.
 
-.......
+  - **Part 1 – VC dimension and the uniform convergence paradigm**  
+    Introduction to the PAC framework, hypothesis classes, and VC dimension as a measure of complexity. Explains how uniform convergence connects the complexity of a hypothesis class to generalization guarantees.  
+    [Watch Part 1](https://www.youtube.com/watch?v=PazAnVWEq-0&t=5191s)
 
----
+  - **Part 2 – More on VC dimension and generalization**  
+    Continues the discussion of VC dimension and uniform convergence, with more examples and intuition on why VC dimension controls learnability and sample complexity.  
+    [Watch Part 2](https://www.youtube.com/watch?v=-Ypw18j7LIs)
 
-## Extras / further directions
+  - **Part 3 – Non-uniform learnability and beyond**  
+    Discusses non-uniform learnability, where different hypotheses within the same class can have different sample-complexity behavior, and how this refines the usual uniform convergence picture. Connects these ideas back to practical learning scenarios.  
+    [Watch Part 3](https://www.youtube.com/watch?v=_Q9gXuM7vbc&t=1992s)
 
-.....
