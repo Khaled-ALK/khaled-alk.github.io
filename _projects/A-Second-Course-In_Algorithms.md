@@ -12,14 +12,12 @@ permalink: /courses/a-second-course-in-algorithms/
 
 *A Second Course in Algorithms* is an advanced follow-up to a standard undergraduate algorithms class. Based on Tim Roughgarden’s Stanford **CS261 (Winter 2016)**, the course focuses on powerful tools and paradigms for designing and analyzing algorithms beyond the basics of CS1/CS2 and a first algorithms course. :contentReference[oaicite:0]{index=0}  
 
-The playlist covers four major themes:
+Recently I’ve been studying game theory, and in particular I became curious about how **linear programming** appears in the proof of von Neumann’s **minimax theorem**. In parallel, I was learning about **machine learning**, where I ran into the **AdaBoost** paradigm and also encountered **multiplicative weight updates** in the context of multi-armed bandit learning. All of these topics felt strangely related.
 
-- **Combinatorial optimization:** maximum flows, minimum cuts, bipartite matching, min-cost flows, and related network problems.
-- **Linear programming and duality:** modeling optimization problems as LPs, geometric intuition, duality, and applications to flows, matching, and game theory.
-- **Online and learning-style algorithms:** the multiplicative weights framework, regret, and classic online problems such as scheduling, Steiner tree, and online bipartite matching.
-- **Algorithms for NP-hard problems:** approximation algorithms for TSP, set cover, vertex cover, and others; randomized algorithms; semidefinite programming and the Max-Cut problem. :contentReference[oaicite:1]{index=1}  
+Another question that caught my attention was the following: in a repeated game, what happens if both players use **regret-free (no-regret)** learning algorithms? My first intuition was that in **zero-sum games** this should somehow converge to an equilibrium, while in more general games it might fail to converge or exhibit more complicated behavior.
 
-The goal is twofold: (1) to give a “final algorithms course” packed with broadly useful techniques, and (2) to provide a bridge to research-level work in algorithms, optimization, and complexity. :contentReference[oaicite:2]{index=2}  
+I still do not fully understand all of these connections, but they are exactly the reasons this course appealed to me: it brings together **linear programming, duality, game-theoretic ideas, and multiplicative weights** in one coherent framework. My personal goal is to work through the entire course over the next 90 days.
+
 
 ---
 
