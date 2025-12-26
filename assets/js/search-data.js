@@ -435,6 +435,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-a-second-course-in-algorithms",
+          title: 'A Second Course in Algorithms',
+          description: "An advanced algorithms course based on Tim Roughgarden&#39;s Stanford CS261 (Winter 2016).",
+          section: "Projects",handler: () => {
+              window.location.href = "/courses/a-second-course-in-algorithms/";
             },},{id: "projects-advanced-statistics",
           title: 'Advanced Statistics',
           description: "Notes, readings, and problem sets from my Advanced Statistics course.",
