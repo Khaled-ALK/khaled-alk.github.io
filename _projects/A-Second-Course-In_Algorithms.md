@@ -16,7 +16,7 @@ Another question that caught my attention was the following: in a repeated game,
 
 I still do not fully understand all of these connections, but they are exactly the reasons this course appealed to me: it brings together **linear programming, duality, game-theoretic ideas, and multiplicative weights** in one coherent framework. My personal goal is to work through the entire course over the next 90 days.
 
-**Overview**
+## Overview
 
 *A Second Course in Algorithms* is an advanced follow-up to a standard undergraduate algorithms class. Based on Tim Roughgarden’s Stanford **CS261 (Winter 2016)**, the course focuses on powerful tools and paradigms for designing and analyzing algorithms beyond the basics of CS1/CS2 and a first algorithms course. :contentReference[oaicite:0]{index=0}  
 
