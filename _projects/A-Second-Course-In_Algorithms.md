@@ -10,11 +10,18 @@ permalink: /courses/a-second-course-in-algorithms/
 
 ## A Second Course In Algorithms
 
+## Why this course caught my attention
+
 Recently I’ve been studying game theory, and in particular I became curious about how **linear programming** appears in the proof of von Neumann’s **minimax theorem**. In parallel, I was learning about **machine learning**, where I ran into the **AdaBoost** paradigm and also encountered **multiplicative weight updates** in the context of multi-armed bandit learning. All of these topics felt strangely related.
 
-Another question that caught my attention was the following: in a repeated game, what happens if both players use **regret-free (no-regret)** learning algorithms? My first intuition was that in **zero-sum games** this should somehow converge to an equilibrium, while in more general games it might fail to converge or exhibit more complicated behavior.
+Another question that caught my attention was the following:
+
+> In a repeated game, what happens if both players use **regret-free (no-regret)** learning algorithms?
+
+My first intuition was that in **zero-sum games** this should somehow converge to an equilibrium, while in more general games it might fail to converge or exhibit more complicated behavior.
 
 I still do not fully understand all of these connections, but they are exactly the reasons this course appealed to me: it brings together **linear programming, duality, game-theoretic ideas, and multiplicative weights** in one coherent framework. My personal goal is to work through the entire course over the next 90 days.
+
 
 ## Overview
 
