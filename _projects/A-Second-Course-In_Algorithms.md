@@ -43,7 +43,7 @@ This is not an introductory algorithms class. It is intended for students who:
 
 ---
 
-## Topics / Syllabus (inspired by CS261)
+## Topics / Syllabus
 
 ### Part I – Combinatorial optimization
 
@@ -79,15 +79,5 @@ This is not an introductory algorithms class. It is intended for students who:
 - “Beating brute force”: fixed-parameter tractability and clever exact algorithms for NP-hard problems  
 - Semidefinite programming and Max-Cut: SDP relaxations and randomized rounding :contentReference[oaicite:8]{index=8}  
 
----
 
-## How this page can be used
 
-- As a **self-study guide**, using the playlist and CS261 notes as the main material.  
-- As a **course shell** if you later teach your own “Second Course in Algorithms”: you can add your own:
-  - lecture notes or slides,  
-  - problem sets and solutions,  
-  - links to related courses (e.g., randomized algorithms, online algorithms, or approximation algorithms).
-
-You can extend this page with sections like **“Lecture notes”**, **“Homework”**, or **“Further reading”** once you start using it actively.
-::contentReference[oaicite:9]{index=9}
