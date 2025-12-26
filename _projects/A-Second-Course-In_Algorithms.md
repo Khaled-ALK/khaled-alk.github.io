@@ -4,7 +4,7 @@ title: "A Second Course in Algorithms"
 description: "An advanced algorithms course based on Tim Roughgarden's Stanford CS261 (Winter 2016)."
 category: COS          # Computer Science group
 importance: 3          # smaller number => appears earlier within COS
-img: /assets/courses/a-second-course-in-algorithms/Thumb-1.jpg
+img: /assets/courses/A-Second-Course-In-Algorithms/Thumb-1.jpg
 permalink: /courses/a-second-course-in-algorithms/
 ---
 
