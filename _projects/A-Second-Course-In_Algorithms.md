@@ -14,7 +14,7 @@ permalink: /courses/a-second-course-in-algorithms/
 
 Recently I’ve been studying game theory, and in particular I became curious about how **linear programming** appears in the proof of von Neumann’s **minimax theorem**. In parallel, I was learning about **machine learning**, where I ran into the **AdaBoost** paradigm and also encountered **multiplicative weight updates** in the context of multi-armed bandit learning. All of these topics felt strangely related.
 
-Another question that caught my attention was the following:
+Another question that caught my attention was the following: 
 
 > In a repeated game, what happens if both players use **regret-free (no-regret)** learning algorithms?
 
