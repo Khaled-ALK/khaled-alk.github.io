@@ -22,11 +22,14 @@ The course was taught at **Sharif University of Technology**.
 
 ---
 
-## Main reference
+## Main references
 
-- **Textbook**  
-  A. M. Bruckner, J. B. Bruckner, B. S. Thomson, *Real Analysis*.  
-  A modern, measure-theoretic real analysis text covering Lebesgue measure and integration, differentiation, metric and topological background, and an accessible introduction to Banach and Hilbert spaces, $L^p$ spaces, and Fourier series.
+- **Andrew M. Bruckner, Judith B. Bruckner, Brian S. Thomson**, *Real Analysis*, Prentice Hall, 1997 — main reference for the course.  
+  [Amazon page](https://www.amazon.com/real-analysis/s?k=real+analysis)
+
+- **Elias M. Stein, Rami Shakarchi**, *Real Analysis: Measure Theory, Integration, and Hilbert Spaces*, Princeton University Press, 2005.  
+  [Amazon page](https://www.amazon.com/Real-Analysis-Integration-Princeton-Lectures/dp/0691113866)
+
 
 ---
 
