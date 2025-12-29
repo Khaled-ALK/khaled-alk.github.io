@@ -103,8 +103,3 @@ Students are expected to have:
 - Basic examples: $\ell^2$, $L^2$, and Fourier series from the Hilbert space point of view.
 
 ---
-
-## Remarks
-
-- The course emphasizes the **measure-theoretic point of view** (Lebesgue measure and integration) before moving to functional analysis, reflecting the structure of Bruckner–Bruckner–Thomson.
-- The final weeks form a gentle bridge from real analysis into **abstract functional analysis**, focusing on Banach and Hilbert space techniques that are central in modern analysis, PDE, and probability.
