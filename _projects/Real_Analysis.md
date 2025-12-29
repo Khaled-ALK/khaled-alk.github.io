@@ -10,13 +10,13 @@ permalink: /courses/real-analysis/
 
 **Overview**
 
-This course is a graduate-level introduction to **real analysis and measure theory**, followed by a first look at **functional analysis**, **\(L^p\) spaces**, and **Hilbert spaces**.
+This course is a graduate-level introduction to **real analysis and measure theory**, followed by a first look at **functional analysis**, **$L^p$ spaces**, and **Hilbert spaces**.
 
 The main reference is:
 
 - Andrew M. Bruckner, Judith B. Bruckner, Brian S. Thomson – *Real Analysis* (Prentice Hall, 1997).
 
-We followed (roughly) the first seven chapters of the book, then selected topics from the later chapters on **Baire category**, **Banach spaces**, **Hahn–Banach and separation**, **open/closed mapping theorems**, and **\(L^p\) and dual spaces**, with a brief introduction to **Hilbert spaces**.
+We followed (roughly) the first seven chapters of the book, then selected topics from the later chapters on **Baire category**, **Banach spaces**, **Hahn–Banach and separation**, **open/closed mapping theorems**, and **$L^p$ and dual spaces**, with a brief introduction to **Hilbert spaces**.
 
 The course was taught at **Sharif University of Technology**.
 
@@ -26,7 +26,7 @@ The course was taught at **Sharif University of Technology**.
 
 - **Textbook**  
   A. M. Bruckner, J. B. Bruckner, B. S. Thomson, *Real Analysis*.  
-  A modern, measure-theoretic real analysis text covering Lebesgue measure and integration, differentiation, metric and topological background, and an accessible introduction to Banach and Hilbert spaces, \(L^p\) spaces, and Fourier series.
+  A modern, measure-theoretic real analysis text covering Lebesgue measure and integration, differentiation, metric and topological background, and an accessible introduction to Banach and Hilbert spaces, $L^p$ spaces, and Fourier series.
 
 ---
 
@@ -45,8 +45,8 @@ Students are expected to have:
 ### 1. Measure and outer measure on the real line (Chs. 1–3)
 
 - Review of sets of real numbers: open/closed sets, compactness, Cantor sets, countability vs uncountability.
-- Outer content and outer measure on \(\mathbb{R}\); small sets (measure zero, first category).
-- Lebesgue measure on \(\mathbb{R}\): construction via outer measure, basic properties (translation invariance, monotonicity, countable subadditivity).
+- Outer content and outer measure on $\mathbb{R}$; small sets (measure zero, first category).
+- Lebesgue measure on $\mathbb{R}$: construction via outer measure, basic properties (translation invariance, monotonicity, countable subadditivity).
 - Measure spaces and signed measures: additive and countably additive set functions, Jordan and Hahn decompositions, complete measures.
 - Metric outer measures and the abstract construction of Lebesgue–Stieltjes measures.
 
@@ -80,24 +80,24 @@ Students are expected to have:
 ### 6. Banach spaces and basic functional analysis
 
 - Normed linear spaces and Banach spaces: completeness, examples.
-- Continuous linear operators and the dual space \(X^\*\).
+- Continuous linear operators and the dual space $X^*$.
 - Hahn–Banach theorem (extension of linear functionals).
 - Separation of convex sets using Hahn–Banach.
 - Uniform boundedness principle, open mapping theorem, and closed graph theorem, with standard applications.
 
-### 7. \(L^p\) spaces and duality
+### 7. $L^p$ spaces and duality
 
-- Basic inequalities: Hölder, Minkowski, and their use in defining \(L^p\).
-- Construction of \(L^p\) spaces for \(1 \le p \le \infty\) and their completeness (Banach space structure).
-- Examples: \(L^p([0,1])\), \(\ell^p\), and simple function approximations.
-- Continuous linear functionals on \(L^p\) and the dual space \((L^p)^\*\) (Riesz-type representations for \(1 < p < \infty\)).
+- Basic inequalities: Hölder, Minkowski, and their use in defining $L^p$.
+- Construction of $L^p$ spaces for $1 \le p \le \infty$ and their completeness (Banach space structure).
+- Examples: $L^p([0,1])$, $\ell^p$, and simple function approximations.
+- Continuous linear functionals on $L^p$ and the dual space $(L^p)^*$ (Riesz-type representations for $1 < p < \infty$).
 
 ### 8. Hilbert spaces
 
 - Inner product spaces and Hilbert spaces.
 - Orthogonality, projections, and orthonormal bases.
 - Hilbert space version of the Riesz representation theorem for continuous linear functionals.
-- Basic examples: \(\ell^2\), \(L^2\), and Fourier series from the Hilbert space point of view.
+- Basic examples: $\ell^2$, $L^2$, and Fourier series from the Hilbert space point of view.
 
 ---
 
