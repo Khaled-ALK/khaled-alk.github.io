@@ -442,7 +442,7 @@ ninja.data = [{
               window.location.href = "/courses/a-second-course-in-algorithms/";
             },},{id: "projects-real-analysis",
           title: 'Real Analysis',
-          description: "A measure-theoretic real analysis course based on Bruckner–Bruckner–Thomson, with an introduction to functional analysis, L^p spaces, and Hilbert spaces.",
+          description: "Graduate Level Course on measure theory and Lebesgue integration at Sharif university",
           section: "Projects",handler: () => {
               window.location.href = "/courses/real-analysis/";
             },},{id: "projects-advanced-statistics",
