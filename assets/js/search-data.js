@@ -455,11 +455,6 @@ ninja.data = [{
           description: "Notes, readings, and problem sets from my Game Theory course which I audited in Sharif University.",
           section: "Projects",handler: () => {
               window.location.href = "/courses/game-theory/";
-            },},{id: "projects-introduction-to-stochastic-processes",
-          title: 'Introduction to Stochastic Processes',
-          description: "Notes, readings, and problem sets from my Intro to Stochastic Processes course.",
-          section: "Projects",handler: () => {
-              window.location.href = "/courses/introduction-to-stochastic-processes/";
             },},{id: "projects-introduction-to-theoretical-machine-learning",
           title: 'Introduction to Theoretical Machine Learning',
           description: "A mathematically grounded introduction to machine learning based on Shalev-Shwartz &amp; Ben-David&#39;s book Understanding Machine Learning.",
