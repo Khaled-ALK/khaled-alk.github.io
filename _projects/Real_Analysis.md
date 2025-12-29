@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Real Analysis"
-description: "A measure-theoretic real analysis course based on Bruckner–Bruckner–Thomson, with an introduction to functional analysis, L^p spaces, and Hilbert spaces."
+description: "Graduate Level Course on measure theory and Lebesgue integration at Sharif university"
 category: Math
 importance: 1
 img: /assets/courses/Real_Analysis/Thumb_1.jpg
