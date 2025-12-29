@@ -4,7 +4,7 @@ title: "Real Analysis"
 description: "A measure-theoretic real analysis course based on Bruckner–Bruckner–Thomson, with an introduction to functional analysis, L^p spaces, and Hilbert spaces."
 category: Math
 importance: 1
-img: /assets/courses/Real_Analysis/Thumb_1.jpg
+img: /assets/courses/Real_Analysis/Thumb_1.png
 permalink: /courses/real-analysis/
 ---
 
