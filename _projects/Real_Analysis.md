@@ -4,7 +4,7 @@ title: "Real Analysis"
 description: "Graduate Level Course on measure theory and Lebesgue integration at Sharif university"
 category: Math
 importance: 2
-img: /assets/courses/Real_Analysis/Thumb_2.jpg
+img: /assets/courses/Real_Analysis/Thumb_1.jpg
 permalink: /courses/real-analysis/
 ---
 
