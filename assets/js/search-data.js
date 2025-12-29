@@ -440,6 +440,11 @@ ninja.data = [{
           description: "An advanced algorithms course based on Tim Roughgarden&#39;s Stanford CS261 (Winter 2016).",
           section: "Projects",handler: () => {
               window.location.href = "/courses/a-second-course-in-algorithms/";
+            },},{id: "projects-real-analysis",
+          title: 'Real Analysis',
+          description: "A measure-theoretic real analysis course based on Bruckner–Bruckner–Thomson, with an introduction to functional analysis, L^p spaces, and Hilbert spaces.",
+          section: "Projects",handler: () => {
+              window.location.href = "/courses/real-analysis/";
             },},{id: "projects-advanced-statistics",
           title: 'Advanced Statistics',
           description: "Notes, readings, and problem sets from my Advanced Statistics course.",
