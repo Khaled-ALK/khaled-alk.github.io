@@ -22,35 +22,35 @@ I still do not fully understand all of these connections, but they are exactly t
 
 ## Overview
 
-*A Second Course in Algorithms* is an advanced follow-up to a standard undergraduate algorithms class. Based on Tim Roughgarden’s Stanford **CS261 (Winter 2016)**, the course focuses on powerful tools and paradigms for designing and analyzing algorithms beyond the basics of CS1/CS2 and a first algorithms course. :contentReference[oaicite:0]{index=0}  
+*A Second Course in Algorithms* is an advanced follow-up to a standard undergraduate algorithms class. Based on Tim Roughgarden’s Stanford **CS261 (Winter 2016)**, the course focuses on powerful tools and paradigms for designing and analyzing algorithms beyond the basics of CS1/CS2 and a first algorithms course.
 
 ## Topics / Syllabus
 
-### Part I – Combinatorial optimization
+**Part I – Combinatorial optimization**
 
 - Maximum flow: Ford–Fulkerson, Edmonds–Karp, Dinic’s algorithm  
 - Minimum \(s\)-\(t\) cuts and applications (e.g., image segmentation)  
 - Reductions between max flow, min cut, and bipartite matching  
 - Minimum-cost bipartite matching and the Hungarian algorithm  
-- Generalizations: min-cost flow, non-bipartite matching, etc. :contentReference[oaicite:5]{index=5}  
+- Generalizations: min-cost flow, non-bipartite matching, etc. 
 
-### Part II – Linear programming and duality
+**Part II – Linear programming and duality**
 
 - Modeling optimization problems as linear programs  
 - Geometric intuition for LPs and basic examples  
 - LP duality: constructing duals, weak/strong duality, complementary slackness  
 - Max-flow/min-cut via duality  
 - Applications to matching, game theory (minimax theorem), and algorithm design  
-- Overview of algorithms for LP: simplex, ellipsoid, interior-point methods :contentReference[oaicite:6]{index=6}  
+- Overview of algorithms for LP: simplex, ellipsoid, interior-point methods
 
-### Part III – Online algorithms and multiplicative weights
+**Part III – Online algorithms and multiplicative weights**
 
 - Online decision-making and regret minimization  
 - The multiplicative weights update method and its analysis  
 - Applications to zero-sum games, linear classifiers, and fast approximate flows  
-- Classic online problems: online scheduling, online Steiner tree, online bipartite matching :contentReference[oaicite:7]{index=7}  
+- Classic online problems: online scheduling, online Steiner tree, online bipartite matching  
 
-### Part IV – Algorithms for NP-hard problems
+**Part IV – Algorithms for NP-hard problems**
 
 - Introduction to approximation algorithms and approximation ratios  
 - Approximation for scheduling, knapsack, Steiner tree, set cover, influence maximization  
@@ -58,7 +58,7 @@ I still do not fully understand all of these connections, but they are exactly t
 - LP-based approximation: set cover, vertex cover via LP rounding and primal–dual methods  
 - Randomized algorithms: tools (linearity of expectation, Markov/Chebyshev/Chernoff) and applications (e.g., hashing, MAX-3SAT)  
 - “Beating brute force”: fixed-parameter tractability and clever exact algorithms for NP-hard problems  
-- Semidefinite programming and Max-Cut: SDP relaxations and randomized rounding :contentReference[oaicite:8]{index=8}  
+- Semidefinite programming and Max-Cut: SDP relaxations and randomized rounding 
 
 ---
 
@@ -66,7 +66,7 @@ I still do not fully understand all of these connections, but they are exactly t
 
 This is not an introductory algorithms class. It is intended for students who:
 
-- Have completed a **first course in algorithms** (e.g., Stanford CS161 or equivalent), including asymptotic analysis, basic graph algorithms, dynamic programming, and NP-completeness. :contentReference[oaicite:4]{index=4}  
+- Have completed a **first course in algorithms** (e.g., Stanford CS161 or equivalent), including asymptotic analysis, basic graph algorithms, dynamic programming, and NP-completeness.  
 - Are comfortable with **discrete mathematics** (graphs, combinatorics, proofs by induction and contradiction).
 - Have some familiarity with **probability** (expectations, basic inequalities) and **linear algebra** (vectors, matrices, linear systems).
 
@@ -80,7 +80,7 @@ This is not an introductory algorithms class. It is intended for students who:
 
 - **Course home page (original Stanford CS261)**  
   Contains lecture notes (one PDF per lecture), problem sets, and a detailed schedule.  
-  [CS261: A Second Course in Algorithms – Winter 2016](https://timroughgarden.org/w16/w16.html) :contentReference[oaicite:3]{index=3}  
+  [CS261: A Second Course in Algorithms – Winter 2016](https://timroughgarden.org/w16/w16.html)
 
 
 
