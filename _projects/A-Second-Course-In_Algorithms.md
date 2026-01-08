@@ -32,7 +32,7 @@ I still do not fully understand all of these connections, but they are exactly t
   [CS261: A Second Course in Algorithms – Winter 2016](https://timroughgarden.org/w16/w16.html)
 
 ---
-## Topics / Syllabus
+## Topics
 
 **Part I – Combinatorial optimization**
 
