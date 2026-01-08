@@ -2,7 +2,7 @@
 layout: page
 title: "Convex Optimization I"
 description: "Core ideas, theory, and algorithms for convex optimization (Boyd-style)."
-category: ETC
+category: Etc
 importance: 2
 img: /assets/courses/convex-optimization-i/convex_thumb_1.png
 permalink: /courses/convex-optimization-i/
