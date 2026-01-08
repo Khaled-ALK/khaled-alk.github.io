@@ -13,17 +13,25 @@ Recently I’ve been studying game theory, and in particular I became curious ab
 
 Another question that caught my attention was the following: 
 
->> In a repeated game, what happens if both players use **regret-free (no-regret)** learning algorithms?
+> In a repeated game, what happens if both players use **regret-free (no-regret)** learning algorithms?
 
 My first intuition was that in **zero-sum games** this should somehow converge to an equilibrium, while in more general games it might fail to converge or exhibit more complicated behavior.
 
-I still do not fully understand all of these connections, but they are exactly the reasons this course appealed to me: it brings together **linear programming, duality, game-theoretic ideas, and multiplicative weights** in one coherent framework. My personal goal is to work through the entire course over the next 90 days.
+I still do not fully understand all of these connections, but they are exactly the reasons this course appealed to me: it brings together **linear programming, duality, game-theoretic ideas, and multiplicative weights** in one coherent framework.
 
+---
 
-## Overview
+## Main resources
 
-*A Second Course in Algorithms* is an advanced follow-up to a standard undergraduate algorithms class. Based on Tim Roughgarden’s Stanford **CS261 (Winter 2016)**, the course focuses on powerful tools and paradigms for designing and analyzing algorithms beyond the basics of CS1/CS2 and a first algorithms course.
+- **Lecture playlist (primary resource)**  
+  *Tim Roughgarden – A Second Course in Algorithms (Stanford CS261, Winter 2016)*  
+  [YouTube playlist](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc)
 
+- **Course home page (original Stanford CS261)**  
+  Contains lecture notes (one PDF per lecture), problem sets, and a detailed schedule.  
+  [CS261: A Second Course in Algorithms – Winter 2016](https://timroughgarden.org/w16/w16.html)
+
+---
 ## Topics / Syllabus
 
 **Part I – Combinatorial optimization**
@@ -59,28 +67,6 @@ I still do not fully understand all of these connections, but they are exactly t
 - Randomized algorithms: tools (linearity of expectation, Markov/Chebyshev/Chernoff) and applications (e.g., hashing, MAX-3SAT)  
 - “Beating brute force”: fixed-parameter tractability and clever exact algorithms for NP-hard problems  
 - Semidefinite programming and Max-Cut: SDP relaxations and randomized rounding 
-
----
-
-## Prerequisites
-
-This is not an introductory algorithms class. It is intended for students who:
-
-- Have completed a **first course in algorithms** (e.g., Stanford CS161 or equivalent), including asymptotic analysis, basic graph algorithms, dynamic programming, and NP-completeness.  
-- Are comfortable with **discrete mathematics** (graphs, combinatorics, proofs by induction and contradiction).
-- Have some familiarity with **probability** (expectations, basic inequalities) and **linear algebra** (vectors, matrices, linear systems).
-
----
-
-## Main resources
-
-- **Lecture playlist (primary resource)**  
-  *Tim Roughgarden – A Second Course in Algorithms (Stanford CS261, Winter 2016)*  
-  [YouTube playlist](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc)
-
-- **Course home page (original Stanford CS261)**  
-  Contains lecture notes (one PDF per lecture), problem sets, and a detailed schedule.  
-  [CS261: A Second Course in Algorithms – Winter 2016](https://timroughgarden.org/w16/w16.html)
 
 
 
