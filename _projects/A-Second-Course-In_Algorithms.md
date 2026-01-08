@@ -13,7 +13,7 @@ Recently I’ve been studying game theory, and in particular I became curious ab
 
 Another question that caught my attention was the following: 
 
-> In a repeated game, what happens if both players use **regret-free (no-regret)** learning algorithms?
+>> In a repeated game, what happens if both players use **regret-free (no-regret)** learning algorithms?
 
 My first intuition was that in **zero-sum games** this should somehow converge to an equilibrium, while in more general games it might fail to converge or exhibit more complicated behavior.
 
