@@ -74,11 +74,6 @@ ninja.data = [{
           description: "A mathematically grounded introduction to machine learning based on Shalev-Shwartz &amp; Ben-David&#39;s book Understanding Machine Learning.",
           section: "Projects",handler: () => {
               window.location.href = "/courses/introduction-to-theoretical-machine-learning/";
-            },},{id: "projects-markov-chains-and-mixing-times",
-          title: 'Markov Chains and Mixing Times',
-          description: "Notes and references from the course I audited at Peking University (lecturer: Yuval Peres).",
-          section: "Projects",handler: () => {
-              window.location.href = "/courses/markov-chains-and-mixing-times/";
             },},{
         id: 'social-email',
         title: 'email',
