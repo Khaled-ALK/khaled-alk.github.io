@@ -74,11 +74,6 @@ ninja.data = [{
           description: "Notes, readings, and references for the BIMSA course Probability 3: Brownian Motion and Stochastic Calculus.",
           section: "Projects",handler: () => {
               window.location.href = "/courses/brownian-motion-stochastic-calculus/";
-            },},{id: "projects-convex-optimization-i",
-          title: 'Convex Optimization I',
-          description: "Core ideas, theory, and algorithms for convex optimization (Boyd-style).",
-          section: "Projects",handler: () => {
-              window.location.href = "/courses/convex-optimization-i/";
             },},{id: "projects-game-theory",
           title: 'Game Theory',
           description: "Notes, readings, and problem sets from my Game Theory course which I audited in Sharif University.",
