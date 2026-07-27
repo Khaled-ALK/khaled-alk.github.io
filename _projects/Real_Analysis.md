@@ -6,6 +6,7 @@ category: Math
 importance: 2
 img: /assets/courses/Real_Analysis/Thumb_1.png
 permalink: /courses/real-analysis/
+published: false
 ---
 
 ## Overview
