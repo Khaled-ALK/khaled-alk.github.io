@@ -59,11 +59,6 @@ ninja.data = [{
           description: "An advanced algorithms course based on Tim Roughgarden&#39;s Stanford CS261 (Winter 2016).",
           section: "Projects",handler: () => {
               window.location.href = "/courses/a-second-course-in-algorithms/";
-            },},{id: "projects-real-analysis",
-          title: 'Real Analysis',
-          description: "Graduate Level Course on measure theory and Lebesgue integration at Sharif university",
-          section: "Projects",handler: () => {
-              window.location.href = "/courses/real-analysis/";
             },},{id: "projects-advanced-statistics",
           title: 'Advanced Statistics',
           description: "Notes, readings, and problem sets from my Advanced Statistics course.",
