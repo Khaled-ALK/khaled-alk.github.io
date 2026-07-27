@@ -6,6 +6,7 @@ category: Math          # keep consistent with your other Math courses
 importance: 1           # smaller number => appears earlier within the Math group
 img: /assets/courses/brownian-motion-stochastic-calculus/brownian-motion-3d-path.jpg
 permalink: /courses/brownian-motion-stochastic-calculus/
+published: false
 ---
 
 **Overview**
