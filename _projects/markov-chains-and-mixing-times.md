@@ -6,6 +6,7 @@ category: Math
 importance: 1
 img: /assets/courses/markov-chains-and-mixing-times/thumb.jpg
 permalink: /courses/markov-chains-and-mixing-times/
+published: false
 ---
 
 
